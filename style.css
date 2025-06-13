@@ -1,4 +1,19 @@
+/*  CSS comment */
+
 button{
     color:#fff;
     background:green
+}
+/* Style for para */
+#para1{
+    color:hotpink
+
+}
+/* Style for para2 */
+#para2{
+    color:blue
+}
+.content{
+    color:lightblue;
+    background:lightcoral
 }
