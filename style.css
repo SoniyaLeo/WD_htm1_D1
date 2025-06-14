@@ -1,46 +1,47 @@
 /*  CSS comment */
 
-button{
-    color:#fff;
-    background:green
+button {
+    color: #fff;
+    background: green;
 }
+
 /* Style for para */
-#para1{
-    color:hotpink
-
+#para1 {
+    color: hotpink;
 }
+
 /* Style for para2 */
-#para2{
-    color:blue
+#para2 {
+    color: blue;
 }
-.content{
-    color:lightblue;
-    background:lightcoral
-}
-div {
-    width: 307px;
-    height: 200px;
-    background: #ff2fe7;
-    margin-left: 20px;
-    margin-top: 20px;
-    padding-left: 30px;
-    padding-top: 40px;
-    border: 5px solid;
-    border-color: #15ff00;
-}
-/*
-div{
-    width:300px;
-    height:200px;
-    background:greenyellow;
-    margin-left:20px;
-    margin-top:20px;
-    padding-left:30px;
-    padding-top:40px;
-    border: 5px solid;
-    border-color:red;
 
-}*/
-.white{
-    color:#fff /*  White color  */
+.content {
+    color: lightblue;
+    background: lightcoral
+}
+
+.outer-box {
+    border: solid 1x;
+    border-color: red;
+    background: lightgreen;
+    color: #fff;
+    width: 300px;
+    height: 200px;
+}
+
+.box {
+    margin-left: 100px;
+    padding-left: 50px;
+}
+
+.white {
+    color: #fff
+        /*  White color  */
+}
+
+.inner-div {
+    margin:10px;
+    background: lightslategray;
+    width: 200px;
+    height: 100px;
 }
